@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[3]:
-
-
 import streamlit as st
 import pandas as pd
 import duckdb
@@ -130,10 +124,5 @@ with col_right:
 
 st.markdown("---")
 st.caption("Developed by Aklilu Abera | 100k-user A/B test | Built with Streamlit + DuckDB")
-
-
-# In[ ]:
-
-
 
 
